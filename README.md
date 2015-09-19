@@ -16,7 +16,6 @@ It is not perfect and a bit hacky, but at the time of coding I could not find an
 * Click run and watch as your posts are saved
 
 ## Notes
-### Will be deleted:
 * If you get a dialog box to open a file, click "Do this automatically for files like this from now on"
 
 ## The Code
