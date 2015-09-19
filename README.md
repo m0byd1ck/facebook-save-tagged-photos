@@ -13,7 +13,7 @@ It is not perfect and a bit hacky, but at the time of coding I could not find an
 * Scroll down so all photos are loaded
 * Open the scratchpad (Menu > Developer > Scratchpad)
 * Paste in the JavaScript code from below
-* Click run and watch as your posts are deleted
+* Click run and watch as your posts are saved
 
 ## Notes
 ### Will be deleted:
