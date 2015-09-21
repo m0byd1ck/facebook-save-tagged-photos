@@ -18,6 +18,10 @@ It is not perfect and a bit hacky, but at the time of coding I could not find an
 ## Notes
 * If you get a dialog box to open a file, click "Do this automatically for files like this from now on"
 
+# Very Important Notes
+* You MUST make sure you have permission to download the photos! Please contact the owners of the photos prior to running the tool.
+* If you do not have permission to download the photos, you do not have permission to use this tool.
+
 ## The Code
     
     var buttons = document.querySelectorAll('[data-tooltip="Edit or remove"]'), i;
